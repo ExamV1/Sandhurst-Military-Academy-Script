@@ -7,7 +7,8 @@ This is a script for the roblox game Sandhurst Military Academy By |BA| British 
 
 #main section
 
-![image](https://user-images.githubusercontent.com/87576045/225996735-e88d8ac2-1d58-4d7c-b3ea-861a03bb63ce.png)
+![image](https://user-images.githubusercontent.com/87576045/226037155-e44956e8-8621-4b22-a3be-a4491fb495df.png)
+
 
 
 #local player section
@@ -37,6 +38,11 @@ This is a script for the roblox game Sandhurst Military Academy By |BA| British 
 
 Bypass Anti Cheat: This will bypass the anti cheat which kicks you with the message 'better luck nexttime'
 ![image](https://user-images.githubusercontent.com/87576045/225997851-989f7101-a63f-4955-8a12-bfe3e785489a.png)
+
+
+Lag server: This will increase the ping for everyone in the server
+![image](https://user-images.githubusercontent.com/87576045/226037025-d1f4ab80-97ec-4b3f-8438-d0ab7e97e6fd.png)
+
 
 
 Delete Invisible barriers: this simple removes any invisible barriers that prevent you from crossing a certain area. 
