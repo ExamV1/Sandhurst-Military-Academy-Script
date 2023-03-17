@@ -37,11 +37,17 @@ This is a script for the roblox game Sandhurst Military Academy By |BA| British 
 ## Options Explained
 
 Bypass Anti Cheat: This will bypass the anti cheat which kicks you with the message 'better luck nexttime'
+
 ![image](https://user-images.githubusercontent.com/87576045/225997851-989f7101-a63f-4955-8a12-bfe3e785489a.png)
 
 
 Lag server: This will increase the ping for everyone in the server
+
 ![image](https://user-images.githubusercontent.com/87576045/226037025-d1f4ab80-97ec-4b3f-8438-d0ab7e97e6fd.png)
+
+it will also say in bottom right corner to confirm you want to lag the server, if you click yes it proceeds with it, but if you click no, it will not lag the server
+
+![image](https://user-images.githubusercontent.com/87576045/226047881-df057d88-d79a-48ae-a09e-7138611feab4.png)
 
 
 
@@ -52,6 +58,7 @@ Invisibility tool: this simply makes your character invisible to other players, 
 
 
 Toggle AFK: this simply allows you to make it look like your afk by displaying the afk message above your player.
+
 ![image](https://user-images.githubusercontent.com/87576045/225998729-59b78522-749a-4bab-bef2-fc2a65a7da92.png)
 
 
