@@ -28,6 +28,7 @@ This is a script for the roblox game Sandhurst Military Academy By |BA| British 
 
 
 #settings section
+
 ![image](https://user-images.githubusercontent.com/87576045/225997503-8d1de303-aeae-4cf3-99f7-09246590009a.png)
 
 
