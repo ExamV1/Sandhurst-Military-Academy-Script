@@ -1,9 +1,17 @@
 ## loadstring:
 ```loadstring(game:HttpGet(('https://raw.githubusercontent.com/ExamV1/Sandhurst-Military-Academy-Script/main/SandhurstMilitaryScript.lua'),true))()```
 
+Also this contains, no adverts, keys or any of the sort this is completely free to use for all!
+
 # Sandhurst-Military-Academy-Script
 This is a script for the roblox game Sandhurst Military Academy By |BA| British Army, with a bypass anti cheat!
 
+## The game:
+https://www.roblox.com/games/270499015/UPDATE-Sandhurst-Military-Academy
+![image](https://user-images.githubusercontent.com/87576045/226111132-3f30d221-721f-49d3-8d1f-154b71aa70b8.png)
+
+
+## The options this gui brings:
 
 #main section
 
