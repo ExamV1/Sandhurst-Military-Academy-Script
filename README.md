@@ -11,11 +11,18 @@ https://www.roblox.com/games/270499015/UPDATE-Sandhurst-Military-Academy
 ![image](https://user-images.githubusercontent.com/87576045/226111132-3f30d221-721f-49d3-8d1f-154b71aa70b8.png)
 
 
+Updated 3/21/23
+
+
 ## The options this gui brings:
 
 #main section
 
 ![image](https://user-images.githubusercontent.com/87576045/226037155-e44956e8-8621-4b22-a3be-a4491fb495df.png)
+
+
+update:
+![image](https://user-images.githubusercontent.com/87576045/226495256-3215e89d-a276-4b74-b995-a6750408de4b.png)
 
 
 
@@ -70,7 +77,19 @@ Toggle AFK: this simply allows you to make it look like your afk by displaying t
 ![image](https://user-images.githubusercontent.com/87576045/225998729-59b78522-749a-4bab-bef2-fc2a65a7da92.png)
 
 
-Free gun: this will allow you aquire the free gun from anywhere, but you must like and favourite there game in order to aquire the gun.
+~~Free gun: this will allow you aquire the free gun from anywhere, but you must like and favourite there game in order to aquire the gun.~~
+Added Auto Give Free Gun: This option will give you the free gun everytime you respawn or whenever you don't have free gun equipped, and once again you must like and favorite game in order to get the free gun.
+
+
+Remove Fall Damage: this will prevent you from fall damage when enabled, it is a toggle due to respawning breaking it, so it will auto fix Remove fall damage after every respawn.
+
+
+Give Tools: this will simply give you all the repair tools
+
+![image](https://user-images.githubusercontent.com/87576045/226495901-b3ddf45a-55a9-4196-9272-dd6756e08cf4.png)
+
+
+
 
 Fullbright: this just makes the world a brighter place :)
 
