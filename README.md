@@ -1,3 +1,5 @@
+# Updated 11/07/23 - Fixed Bypass Anti Cheat
+
 ## loadstring:
 ```loadstring(game:HttpGet(('https://raw.githubusercontent.com/ExamV1/Sandhurst-Military-Academy-Script/main/SandhurstMilitaryScript.lua'),true))()```
 
