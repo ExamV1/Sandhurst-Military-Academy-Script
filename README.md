@@ -64,13 +64,13 @@ Lag server: This will increase the ping for everyone in the server
 
 ![image](https://user-images.githubusercontent.com/87576045/226037025-d1f4ab80-97ec-4b3f-8438-d0ab7e97e6fd.png)
 
-it will also say in bottom right corner to confirm you want to lag the server, if you click yes it proceeds with it, but if you click no, it will not lag the server
+it will also say in the bottom right corner to confirm you want to lag the server, if you click yes it proceeds with it, but if you click no, it will not lag the server
 
 ![image](https://user-images.githubusercontent.com/87576045/226047881-df057d88-d79a-48ae-a09e-7138611feab4.png)
 
 
 
-Delete Invisible barriers: this simple removes any invisible barriers that prevent you from crossing a certain area. 
+Delete Invisible barriers: this simply removes any invisible barriers that prevent you from crossing a certain area. 
 
 
 Invisibility tool: this simply makes your character invisible to other players, you can also use your weapons while in invisible and still do damage, but this tends to be a bit glitchy and may fling you if you walk upto objects while invisible.
@@ -81,8 +81,8 @@ Toggle AFK: this simply allows you to make it look like your afk by displaying t
 ![image](https://user-images.githubusercontent.com/87576045/225998729-59b78522-749a-4bab-bef2-fc2a65a7da92.png)
 
 
-~~Free gun: this will allow you aquire the free gun from anywhere, but you must like and favourite there game in order to aquire the gun.~~
-Added Auto Give Free Gun: This option will give you the free gun everytime you respawn or whenever you don't have free gun equipped, and once again you must like and favorite game in order to get the free gun.
+~~Free gun: this will allow you acquire the free gun from anywhere, but you must like and favorite their game in order to acquire the gun.~~
+Added Auto Give Free Gun: This option will give you the free gun every time you respawn or whenever you don't have free gun equipped, and once again you must like and favorite game in order to get the free gun.
 
 
 Remove Fall Damage: this will prevent you from fall damage when enabled, it is a toggle due to respawning breaking it, so it will auto fix Remove fall damage after every respawn.
@@ -99,18 +99,18 @@ Fullbright: this just makes the world a brighter place :)
 
 -----
 
-Speed: allows you modify your player speed, make sure to enable the anti cheat byapss for this
+Speed: allows you to modify your player speed, make sure to enable the anti cheat byapss for this
 
 
-inf jump: allows you to jump infinitly without any limit, basically flying
+inf jump: allows you to jump infinitely without any limit, basically flying
 
 -----
 
-Spectate Player: Allows you to view another players perspective.
+Spectate Player: Allows you to view another player's perspective.
 
 Go to player: teleports your player to them.
 
-ESP and ESP V2: basic esp allows you to see players through walls with names, use which ever one suits you.
+ESP and ESP V2: basic esp allows you to see players through walls with names, use whichever one suits you.
 
 -----
 
@@ -119,22 +119,22 @@ Teleport locations: These teleport you to the intended places.
 
 -----
 
-Debug info: displays some information about the game and yourself, also slowmation if you hold the minus key.
+Debug info: displays some information about the game and yourself, also slow motion if you hold the minus key.
 
 ![image](https://user-images.githubusercontent.com/87576045/225999761-898ba658-d3c6-44c6-b522-8079ab3ce594.png)
-it can show different information depending on executor
+it can show different information depending on the executor
 
 
-Toggle UI: allows you have key to open and close the GUI
+Toggle UI: allows you to have key to open and close the GUI
 
 
-Infinite yield: I would reccomend using this, but be sure to enable to anti cheat bypass.
+Infinite yield: I would recommend using this, but be sure to enable anti cheat bypass.
 you can use many things such as fly.
 
 
-Unhide chat: it will show the chat in the top left corner instead of having to be next to the player to see there message, and you can see commands being said in the chat by admins.
+Unhide chat: it will show the chat in the top left corner instead of having to be next to the player to see their message, and you can see commands being said in the chat by admins.
 
-Rainbow World: jsut a random feature that makes the world rainbow coloured
+Rainbow World: just a random feature that makes the world rainbow colored
 
 
 
